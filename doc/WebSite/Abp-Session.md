@@ -97,7 +97,7 @@ as shown below:
 
 The Use method returns an IDisposable and it **must be disposed**. Once the
 return value is disposed, Session values are **automatically restored**
-the to previous values.
+to the previous values.
 
 #### Warning!
 
